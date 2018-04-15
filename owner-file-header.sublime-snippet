@@ -1,0 +1,14 @@
+<snippet>
+    <content><![CDATA[
+/**
+ * ${1:file-description}
+ *
+ * @author Brendan Kelly <brendan@hackcapital.com>
+ * @since ${2:YYYY-MM}
+ */
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>dbfile</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <scope></scope>
+</snippet>
